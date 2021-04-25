@@ -1,15 +1,3 @@
-# bankauth.py
-ATM mockup
-# register
-# - first name, last name, password, email
-# -generating user account
-
-# login
-# - account number and password
-
-# bank operations11
-
-# Initializing the system
 import random
 
 database = {}
